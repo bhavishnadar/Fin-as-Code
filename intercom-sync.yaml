@@ -1,0 +1,11 @@
+---
+version: 1
+workspace_id: 2975890
+managed_folder: intercom
+default_branch: main
+locales:
+- en
+content_types:
+- articles
+- internal_articles
+- snippets
