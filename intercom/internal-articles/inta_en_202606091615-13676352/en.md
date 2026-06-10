@@ -5,7 +5,7 @@ author_id: 10804128
 published: true
 chatbot_availability: true
 copilot_availability: true
-sales_agent_availability: false
+sales_agent_availability: true
 ---
 Test Internal Article  
 Updating body 202606101040
