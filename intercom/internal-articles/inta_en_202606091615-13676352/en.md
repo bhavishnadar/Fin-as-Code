@@ -3,8 +3,8 @@ locale: en
 title: Inta_en_2026060101043
 author_id: 8364392
 published: true
-chatbot_availability: false
-copilot_availability: true
+chatbot_availability: true
+copilot_availability: false
 sales_agent_availability: false
 ---
 Test Internal Article 
