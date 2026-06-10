@@ -1,5 +1,5 @@
 ---
-locale: fr
+locale: en 
 title: Inta_fr_202606101103
 author_id: 8364392
 published: true
