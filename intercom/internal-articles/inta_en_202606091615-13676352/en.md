@@ -7,4 +7,5 @@ chatbot_availability: false
 copilot_availability: true
 sales_agent_availability: false
 ---
-Test Internal Article
+Test Internal Article 
+Updating body 202606101040
