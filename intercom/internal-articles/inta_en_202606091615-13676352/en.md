@@ -1,10 +1,11 @@
 ---
-locale: de
-title: Inta_de_202606101102
+locale: en
+title: Inta_en_2026060101043
 author_id: 10804128
 published: true
 chatbot_availability: true
 copilot_availability: true
 sales_agent_availability: true
 ---
-De
+Test Internal Article  
+Updating body 202606101040
