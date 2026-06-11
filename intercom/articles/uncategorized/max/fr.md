@@ -1,9 +1,9 @@
 ---
-locale: fr 
-title: max_fr 
+locale: fr
+title: max_fr
 summary: ''
 author_id: 10804128
-published: true 
+published: true
 chatbot_availability: true
 copilot_availability: true
 sales_agent_availability: true
