@@ -1,6 +1,6 @@
 ---
 locale: en
-title: max_en 
+title: max_en
 summary: ''
 author_id: 10804128
 published: false
@@ -11,4 +11,4 @@ with_table_of_contents: false
 ---
 I’m just a fish ….
 
-Maybe I'm a Whale as well now
+Maybe I’m a Whale as well now
