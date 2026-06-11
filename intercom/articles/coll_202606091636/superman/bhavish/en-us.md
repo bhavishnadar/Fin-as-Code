@@ -6,8 +6,8 @@ summary: A test article created via the Fin-as-Code GitHub sync to verify the cr
 author_id: 10804128
 published: true
 chatbot_availability: true
-copilot_availability: false
-sales_agent_availability: false
+copilot_availability: true
+sales_agent_availability: true
 with_table_of_contents: false
 ---
 # Claude test article {#h_8104692fc1}
