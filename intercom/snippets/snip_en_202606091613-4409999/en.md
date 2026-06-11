@@ -7,4 +7,6 @@ chatbot_availability: true
 copilot_availability: true
 sales_agent_availability: true
 ---
-This is an English Snippet
+This is an English Snippet 
+
+with some updates

@@ -1,8 +1,7 @@
 ---
 locale: de
 title: Nest
-summary: A test article created via the Fin-as-Code GitHub sync to verify the create
-  flow.
+summary: Some new changes lol
 author_id: 10804128
 published: true
 chatbot_availability: true
@@ -10,4 +9,4 @@ copilot_availability: true
 sales_agent_availability: true
 with_table_of_contents: false
 ---
-Nest
+Some new changes 
