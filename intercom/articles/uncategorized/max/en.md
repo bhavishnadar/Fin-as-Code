@@ -1,8 +1,6 @@
 ---
-locale: en
 title: max_en
 summary: ''
-author_id: 10804128
 published: false
 chatbot_availability: true
 copilot_availability: true
