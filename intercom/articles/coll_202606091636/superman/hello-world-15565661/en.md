@@ -1,8 +1,6 @@
 ---
-locale: en
 title: Hello World
 summary: ''
-author_id: 8364392
 published: true
 chatbot_availability: true
 copilot_availability: true

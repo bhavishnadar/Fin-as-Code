@@ -1,8 +1,6 @@
 ---
-locale: fr
 title: max_fr
 summary: ''
-author_id: 10804128
 published: true
 chatbot_availability: true
 copilot_availability: true

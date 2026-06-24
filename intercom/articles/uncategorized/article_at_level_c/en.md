@@ -1,9 +1,7 @@
 ---
-locale: en
 title: Article at level C
 summary: A test article created via the Fin-as-Code GitHub sync to verify the create
   flow.
-author_id: 10804128
 published: true
 chatbot_availability: true
 copilot_availability: true
