@@ -1,13 +1,16 @@
 ---
 id: art_15460240
-collection: coll_202606091636/superman
+collection: billing
 collections:
+- help_center: 5472016
+  path: billing
 - help_center: 4614629
   path: coll_202606091636/superman
 default_locale: de
 target_user_type: everyone
 help_centers:
 - 4614629
+- 5472016
 exclude_from_home_screen_suggestions: false
 show_related_articles: false
 ---
