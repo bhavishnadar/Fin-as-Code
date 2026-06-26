@@ -1,0 +1,7 @@
+---
+id:
+default_locale: en
+collections:
+  - help_center: 4614629 
+    path: hello
+---
