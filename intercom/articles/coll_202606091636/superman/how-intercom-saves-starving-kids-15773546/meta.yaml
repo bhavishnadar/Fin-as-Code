@@ -1,6 +1,8 @@
 ---
-id: art_15436094
-collections: []
+id: art_15773546
+collections:
+- help_center: 4614629
+  path: coll_202606091636/superman
 default_locale: en
 target_user_type: everyone
 exclude_from_home_screen_suggestions: false
